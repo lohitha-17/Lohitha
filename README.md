@@ -12,11 +12,10 @@ I'm a passionate **AI enthusiast** specializing in **Deep Learning, Data Enginee
 
 ### 📂 Projects
 1. **[Chat-Bot for Dallas Baptist University](#)**  
-   - *Description:* This project is a conversational chatbot designed to enhance user interaction and support for DBU. Built with cutting-edge NLP technologies, the chatbot can assist users with queries. Its modular architecture ensures scalability, and it integrates seamlessly with SQL databases for dynamic data retrieval and updates. With an accuracy of over 92% in understanding and responding to user queries, it is perfect for optimizing workflows and improving user engagement!
+   - This project is a conversational chatbot designed to enhance user interaction and support for DBU. Built with cutting-edge NLP technologies, the chatbot can assist users with queries. Its modular architecture ensures scalability, and it integrates seamlessly with SQL databases for dynamic data retrieval and updates. With an accuracy of over 92% in understanding and responding to user queries, it is perfect for optimizing workflows and improving user engagement!
 
 2. **[Project Name](#)**  
-   - *Short Description:* [Problem and solution].  
-   - *Example:* "Built a decentralized voting system using Solidity and deployed on Ethereum testnet."
+   - Exploration of data preprocessing and visualization techniques using the Titanic dataset. This project focuses on cleaning data, handling missing values, performing feature engineering, and creating insightful visualizations to understand survival trends among passengers. Ideal for showcasing essential skills in data analysis and visualization.
 
 3. **[Project Name](#)**  
    - *Short Description:* [Challenge and achievement].  
