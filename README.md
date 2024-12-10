@@ -12,8 +12,7 @@ I'm a passionate **AI enthusiast** specializing in **Deep Learning, Data Enginee
 
 ### 📂 Projects
 1. **[Chat-Bot for Dallas Baptist University](#)**  
-   - *Short Description:* [Problem you solved and tools you used].  
-   - *Example:* "Developed a Transformer-based NLP model for sentiment analysis, achieving 90% accuracy on test data."
+   - *Description:* This project is a conversational chatbot designed to enhance user interaction and support for DBU. Built with cutting-edge NLP technologies, the chatbot can assist users with queries. Its modular architecture ensures scalability, and it integrates seamlessly with SQL databases for dynamic data retrieval and updates. With an accuracy of over 92% in understanding and responding to user queries, it is perfect for optimizing workflows and improving user engagement!
 
 2. **[Project Name](#)**  
    - *Short Description:* [Problem and solution].  
