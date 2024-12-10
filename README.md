@@ -18,8 +18,7 @@ I'm a passionate **AI enthusiast** specializing in **Deep Learning, Data Enginee
    - Exploration of data preprocessing and visualization techniques using the Titanic dataset. This project focuses on cleaning data, handling missing values, performing feature engineering, and creating insightful visualizations to understand survival trends among passengers. Ideal for showcasing essential skills in data analysis and visualization.
 
 3. **[Project Name](#)**  
-   - *Short Description:* [Challenge and achievement].  
-   - *Example:* "Implemented a scalable data pipeline using Apache Airflow, integrating real-time analytics with Snowflake."
+   - Multi-class classification of wine quality using various machine learning models. Includes data preprocessing, feature engineering, hyperparameter tuning, and model evaluation.
 
 ### 🌱 Currently Learning
 - Data Engineering
