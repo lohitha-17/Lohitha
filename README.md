@@ -29,9 +29,9 @@ I'm a passionate **AI enthusiast** specializing in **Deep Learning, Data Enginee
 To innovate and contribute to impactful projects in **AI**, **data engineering**, and **blockchain**, while constantly exploring emerging technologies.
 
 ### 📫 Contact Me
-- **Email:** [Your Email Address]  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Portfolio:** [Your Portfolio Link, if any]  
+- **Email:** lohitha0704@gmail.com
+- **LinkedIn:** www.linkedin.com/in/lohithamahesh 
+  
 
 ---
 
